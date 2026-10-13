@@ -61,8 +61,6 @@ The outputs are defined as:
 ```
 Transistor-Level-Full-Adder-Design-Using-LTspice/
 ├── README.md
-├── circuit/
-│   └── CMOS_Full_Adder.asc
 ├── schematics/
 │   └── CMOS_Full_Adder_Schematic.pdf
 ├── simulation/
@@ -93,9 +91,6 @@ Transient analysis was performed in LTspice to examine the input signals and the
 - Calculate average power using a consistent measurement method.
 - Compare alternative transistor sizing configurations.
 - Evaluate circuit performance across different operating conditions.
-
-## Author
-Nidhi Gupta
 
 ## Acknowledgment
 This project was developed collaboratively. The repository organizes the circuit documentation and simulation analysis for portfolio presentation
